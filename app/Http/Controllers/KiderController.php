@@ -36,6 +36,6 @@ class KiderController extends Controller
      }
      function testimonial () {
         return view('kider.testimonial');
-
+//
     }
 }

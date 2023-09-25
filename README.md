@@ -1,9 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm ABOOD ALSAHER</h1>
-<h3 align="center">A passionate Backend developer from palestine <img align="right" alt="Coding" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thu…_of_Palestine.svg/125px-Flag_of_Palestine.svg.png"></h3> 
-
-<img alt="Flag of Palestine" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/125px-Flag_of_Palestine.svg.png" decoding="async" width="125" height="63" class="mw-file-element" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/188px-Flag_of_Palestine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/250px-Flag_of_Palestine.svg.png 2x" data-file-width="1200" data-file-height="600">
+<h3 align="center">A passionate Backend developer from palestine <img align="right" alt="Coding" width="100" src="https://www.embassyofpalestine.org.tr/assets_common/images/pal_flag.png"></h3> 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
